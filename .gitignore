@@ -1,0 +1,16 @@
+# 대용량 영상 파일
+data/videos/*.mp4
+
+# 개인정보 포함 파일 (학생 제출)
+data/student_submissions/
+
+# 자동 생성 파일
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+
+# 가상환경
+venv/
+.env

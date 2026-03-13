@@ -1,0 +1,6 @@
+﻿zone,total_time_s,visits,mean_dwell_s,max_dwell_s
+closed_arm_2,54.315,18,3.018,9.192
+center,127.682,57,2.240,8.858
+open_arm_2,34.762,10,3.476,13.704
+open_arm_1,12.701,10,1.270,6.016
+closed_arm_1,70.359,19,3.703,15.041
